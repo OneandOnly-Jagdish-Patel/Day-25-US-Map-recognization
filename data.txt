@@ -1,0 +1,11 @@
+************* U.S. STATE GAME DATA ***************
+
+Jagdish started the game:-
+->User knows this much states:-
+1. Florida
+2. Alabama
+3. New York
+4. California
+5. Texas
+
+
